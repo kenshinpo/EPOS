@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MokaPos</string>
+
+    <string name="text_Library">LIBRARY</string>
+    <string name="text_All_Discounts">ALL DISCOUNTS</string>
+    <string name="text_All_Items">ALL ITEMS</string>
+    <string name="text_Shopping_Cart">SHOPPING CART</string>
+    <string name="text_Loading">Loading</string>
+    <string name="text_Cancel">Cancel</string>
+    <string name="text_Save">Save</string>
+    <string name="text_Quantity">Quantity</string>
+    <string name="text_Discount">Discount</string>
+    <string name="text_Subtotal">Subtotal</string>
+    <string name="text_No_Items">no items</string>
+    <string name="text_Clear_Sale">Clear Sale</string>
+
+    <string name="text_Wait_while_loading">Wait while loading...</string>
+    <string name="text_Please_check_your_network_connection">Please check your network connection</string>
+</resources>
